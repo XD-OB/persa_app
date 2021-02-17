@@ -7,7 +7,7 @@ import { DrawerProvider } from 'contexts/drawer/drawer.provider';
 import MobileDrawer from './mobile-drawer';
 import menuItems from './header.data';
 
-import LogoDark from '../../assets/logo-head.png';
+import LogoDark from '../../assets/logo_head.png';
 import Divider from 'assets/divider.svg';
 
 export default function Header({ className }) {
