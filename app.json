@@ -1,0 +1,14 @@
+{
+  "name": "persa-landing-page",
+  "description": "landing page with sign-in/sign-up for persa.io",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
