@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: https://persa-app.vercel.app
-Sitemap: https://persa-app.vercel.app/sitemap.xml
+Host: https://persa-app-hwm9vtt93.vercel.app/
+Sitemap: https://persa-app-hwm9vtt93.vercel.app/sitemap.xml
