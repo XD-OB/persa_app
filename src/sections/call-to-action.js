@@ -37,7 +37,7 @@ const styles = {
   },
   contentBox: {
     padding: ['55px 30px 60px', null, null, '55px 30px 60px', '55px 50px 60px'],
-    backgroundColor: '#183656',
+    backgroundColor: '#3f3d56',
     backgroundImage: ['none', null, null, `url(${BgShape})`],
     backgroundRepeat: 'no-repeat',
     backgroundPosition: '60% center',

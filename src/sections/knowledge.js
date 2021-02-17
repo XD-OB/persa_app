@@ -3,7 +3,7 @@ import { jsx, Container, Box } from 'theme-ui';
 import TextFeature from 'components/text-feature';
 import Image from 'components/image';
 
-import KnowledgeThumb from 'assets/images/knowledge-thumb.png';
+import KnowledgeThumb from 'assets/images/knowledge-thumb.svg';
 
 const data = {
   title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',

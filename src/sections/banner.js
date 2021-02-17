@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui';
 import { Container, Flex, Box, Heading, Text, Image } from 'theme-ui';
-import BannerThumb from 'assets/images/banner-thumb.png';
+import BannerThumb from 'assets/images/banner-thumb.svg';
 
 export default function Banner() {
   return (
