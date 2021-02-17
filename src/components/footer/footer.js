@@ -4,7 +4,7 @@ import { Link } from 'components/link';
 import Logo from 'components/logo';
 import menuItems from './footer.data';
 
-import FooterLogo from '../../assets/logo_footer.png';
+import FooterLogo from 'assets/footer-logo.png';
 import CallToAction from 'sections/call-to-action';
 export default function Footer() {
   return (
