@@ -2,7 +2,7 @@
 
 Template built using NextJS
 
-![Live demo here](https://persa-app-git-master.xd-ob.vercel.app/)
+![Live demo here](https://persa-app-git-master-xd-ob.vercel.app/)
 
 ## Owners
 - **Belouche Oussama** 1337
